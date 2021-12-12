@@ -13,7 +13,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: lava
-    second: {fileID: 2100000, guid: b909631c8566cea4db8d202e0231041a, type: 2}
+    second: {fileID: 2100000, guid: 7178fe35cb33adc4a9793567984a9ad8, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
