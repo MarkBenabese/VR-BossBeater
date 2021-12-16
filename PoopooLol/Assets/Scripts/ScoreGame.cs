@@ -36,7 +36,6 @@ public class ScoreGame : MonoBehaviour
     void AddScore()
     {
         Score++;
-        Console.Writeline(Score);
         ScoreText.text = Score.ToString();
     }
     }
