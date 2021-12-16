@@ -29,12 +29,14 @@ public class ScoreGame : MonoBehaviour
     }
     private void OnTriggerEnter(Collider other)
     {
-        Destroy(gameObject);
         AddScore();
+        Destroy(gameObject);
+        
     }
     void AddScore()
     {
         Score++;
+        Console.Writeline(Score);
         ScoreText.text = Score.ToString();
     }
     }
