@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Bigger
+  - projectile
+  - FxTemporaire
+  - Score
   layers:
   - Default
   - TransparentFX
