@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\user\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\user\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_PoopooLol.148736024.00" t="ExcludeRecursive" />
-    <e p="C:\Users\user\Documents\GitHub\VR-BossBeater\PoopooLol" t="IncludeRecursive">
+    <e p="C:\Users\Akela\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Akela\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_PoopooLol.-1923685217.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Akela\Documents\GitHub\VR-BossBeater\PoopooLol" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="BowlingPin.cs" t="Include" />
@@ -26,6 +26,7 @@
         </e>
         <e p="Score.cs" t="Include" />
         <e p="Scripts" t="Include">
+          <e p="LevelLoader.cs" t="Include" />
           <e p="Pointer.cs" t="Include" />
           <e p="ScoreGame.cs" t="Include" />
           <e p="VRInputModule.cs" t="Include" />
@@ -88,11 +89,6 @@
               <e p="SteamVR_Input_LiveWindow.cs" t="Include" />
               <e p="SteamVR_Input_PostProcessBuild.cs" t="Include" />
               <e p="SteamVR_Skeleton_PoserEditor.cs" t="Include" />
-            </e>
-            <e p="Plugins" t="Include">
-              <e p="JSON.NET" t="Include">
-                <e p="Valve.Newtonsoft.Json.dll" t="Include" />
-              </e>
             </e>
             <e p="SteamVR_Action.cs" t="Include" />
             <e p="SteamVR_Action_Boolean.cs" t="Include" />
