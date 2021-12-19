@@ -5,7 +5,7 @@ using UnityEngine;
 public class Shrinker : MonoBehaviour
 {
     // Time it takes in seconds to shrink from starting scale to target scale.
-    public float ShrinkDuration = 5f;
+    public float ShrinkDuration = 100f;
 
     // The target scale
     public Vector3 TargetScale = Vector3.one * .5f;
@@ -26,6 +26,15 @@ public class Shrinker : MonoBehaviour
     void Update()
     {
         
+    }
+    public void OnCollisionEnter(Collision collision)
+    {
+        switch (collision.gameObject.tag)
+        {
+            case "ice":
+                ShrinkDuration = 5f;
+                break;
+        }
     }
 
     public void OnCollisionStay(Collision collision)

@@ -27,12 +27,14 @@
       <Path>Library/PackageCache/com.unity.xr.oculus@1.10.0</Path>
       <Path>Library/PackageCache/com.unity.xr.openxr@1.2.8</Path>
       <Path>Library/PackageCache/com.unity.xr.windowsmr@4.5.0</Path>
+      <Path>Library/PackageCache/com.valvesoftware.unity.openvr@a21dc29f3035-1637844619562</Path>
       <Path>Library/PackageCache/com.valvesoftware.unity.openvr@a913164a8e8b-1637844639815</Path>
       <Path>Packages</Path>
       <Path>ProjectSettings</Path>
     </explicitIncludes>
     <explicitExcludes>
       <Path>.idea</Path>
+      <Path>.vs</Path>
       <Path>Library</Path>
       <Path>Logs</Path>
       <Path>Temp</Path>

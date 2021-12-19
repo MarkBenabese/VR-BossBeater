@@ -9,6 +9,7 @@ TagManager:
   - FxTemporaire
   - Score
   - Smaller
+  - ice
   layers:
   - Default
   - TransparentFX
