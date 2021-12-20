@@ -59,6 +59,7 @@
 		<type fullname="UnityEngine.Sprite" preserve="nothing"/>
 		<type fullname="UnityEngine.CanvasRenderer" preserve="nothing"/>
 		<type fullname="UnityEngine.CanvasGroup" preserve="nothing"/>
+		<type fullname="UnityEngine.LightingSettings" preserve="nothing"/>
 		<type fullname="UnityEngine.Audio.AudioMixer" preserve="nothing"/>
 		<type fullname="UnityEngine.RenderSettings" preserve="nothing"/>
 		<type fullname="UnityEngine.AudioClip" preserve="nothing"/>
@@ -66,7 +67,6 @@
 		<type fullname="UnityEngine.Audio.AudioMixerGroup" preserve="nothing"/>
 		<type fullname="UnityEngine.Audio.AudioMixerSnapshot" preserve="nothing"/>
 		<type fullname="UnityEngine.Cubemap" preserve="nothing"/>
-		<type fullname="UnityEngine.LightingSettings" preserve="nothing"/>
 	</assembly>
 	<assembly fullname="Assembly-CSharp">
 		<type fullname="BowlingPin" preserve="nothing"/>

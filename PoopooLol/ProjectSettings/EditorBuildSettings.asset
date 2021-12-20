@@ -9,17 +9,17 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 2fb6950c89bfb934c84f95583c0b0054
   - enabled: 1
-    path: Assets/Scenes/Summer.unity
-    guid: 3e490f54ff966da40a63107e251067c6
-  - enabled: 1
-    path: Assets/Scenes/Autumn.unity
-    guid: 2c1c1e2bc5cd1be42bc8f7eaac53c07b
-  - enabled: 1
     path: Assets/Scenes/Winter.unity
     guid: 01253b6b205e105478a6da14c9b2b5fd
   - enabled: 1
     path: Assets/Scenes/Spring.unity
     guid: 731b63540a533e844a73de1bc9ad3429
+  - enabled: 1
+    path: Assets/Scenes/Summer.unity
+    guid: 3e490f54ff966da40a63107e251067c6
+  - enabled: 1
+    path: Assets/Scenes/Autumn.unity
+    guid: 2c1c1e2bc5cd1be42bc8f7eaac53c07b
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260,
       type: 2}
