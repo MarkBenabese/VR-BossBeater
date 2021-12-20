@@ -41,7 +41,7 @@ public class Shrinker : MonoBehaviour
     {
         switch (collision.gameObject.tag)
         {
-            case "Smaller":
+            case "Bigger":
                 // Divide deltaTime by the duration to stretch out the time it takes for t to go from 0 to 1.
                 t += Time.deltaTime / ShrinkDuration;
 
