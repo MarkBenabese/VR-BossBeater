@@ -852,7 +852,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &705025527
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3814,22 +3814,22 @@ PrefabInstance:
     - target: {fileID: 3399214428106447959, guid: ff75dc2c5d2b3984b8419e42cba3385f,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3399214428106447959, guid: ff75dc2c5d2b3984b8419e42cba3385f,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3399214428106447959, guid: ff75dc2c5d2b3984b8419e42cba3385f,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 105
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3399214428106447959, guid: ff75dc2c5d2b3984b8419e42cba3385f,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -40
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3399214428236271891, guid: ff75dc2c5d2b3984b8419e42cba3385f,
         type: 3}
@@ -3904,22 +3904,22 @@ PrefabInstance:
     - target: {fileID: 3399214428236271900, guid: ff75dc2c5d2b3984b8419e42cba3385f,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3399214428236271900, guid: ff75dc2c5d2b3984b8419e42cba3385f,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3399214428236271900, guid: ff75dc2c5d2b3984b8419e42cba3385f,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 105
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3399214428236271900, guid: ff75dc2c5d2b3984b8419e42cba3385f,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -95
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3399214428330564780, guid: ff75dc2c5d2b3984b8419e42cba3385f,
         type: 3}
@@ -3959,22 +3959,39 @@ PrefabInstance:
     - target: {fileID: 3399214428330564781, guid: ff75dc2c5d2b3984b8419e42cba3385f,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3399214428330564781, guid: ff75dc2c5d2b3984b8419e42cba3385f,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3399214428330564781, guid: ff75dc2c5d2b3984b8419e42cba3385f,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 105
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3399214428330564781, guid: ff75dc2c5d2b3984b8419e42cba3385f,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -150
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3399214429316371846, guid: ff75dc2c5d2b3984b8419e42cba3385f,
+        type: 3}
+      propertyPath: m_text
+      value: 'Bowling Seasons
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 3399214429316371846, guid: ff75dc2c5d2b3984b8419e42cba3385f,
+        type: 3}
+      propertyPath: m_margin.z
+      value: 28.28447
+      objectReference: {fileID: 0}
+    - target: {fileID: 3399214429316371847, guid: ff75dc2c5d2b3984b8419e42cba3385f,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 361
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ff75dc2c5d2b3984b8419e42cba3385f, type: 3}
@@ -4275,7 +4292,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1975443709
 RectTransform:
   m_ObjectHideFlags: 0
