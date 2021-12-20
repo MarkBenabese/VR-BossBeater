@@ -12756,15 +12756,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1174496016, guid: ac22ec988b240f34c8f62e1f53913d01, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.54
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1174496016, guid: ac22ec988b240f34c8f62e1f53913d01, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.67
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1174496016, guid: ac22ec988b240f34c8f62e1f53913d01, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 6.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4607819707964465036, guid: ac22ec988b240f34c8f62e1f53913d01,
         type: 3}
@@ -12784,7 +12784,7 @@ PrefabInstance:
     - target: {fileID: 4611681483444047078, guid: ac22ec988b240f34c8f62e1f53913d01,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.169
+      value: 1.247
       objectReference: {fileID: 0}
     - target: {fileID: 4611681483444047078, guid: ac22ec988b240f34c8f62e1f53913d01,
         type: 3}
@@ -12794,7 +12794,7 @@ PrefabInstance:
     - target: {fileID: 4611681483444047078, guid: ac22ec988b240f34c8f62e1f53913d01,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -2.132
+      value: -0.297
       objectReference: {fileID: 0}
     - target: {fileID: 4611681483444047078, guid: ac22ec988b240f34c8f62e1f53913d01,
         type: 3}
@@ -12879,7 +12879,7 @@ CapsuleCollider:
   m_Radius: 0.43454847
   m_Height: 1.0056796
   m_Direction: 1
-  m_Center: {x: 0, y: -0.392764, z: 6.824026}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &856592721
 PrefabInstance:
   m_ObjectHideFlags: 0

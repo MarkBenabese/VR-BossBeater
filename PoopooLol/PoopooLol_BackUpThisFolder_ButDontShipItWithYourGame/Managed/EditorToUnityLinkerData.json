@@ -7,10 +7,10 @@
             "fullManagedTypeName": "UnityEngine.Object",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -19,10 +19,10 @@
             "fullManagedTypeName": "UnityEngine.Behaviour",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -31,10 +31,10 @@
             "fullManagedTypeName": "",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -43,10 +43,10 @@
             "fullManagedTypeName": "UnityEngine.Component",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -55,10 +55,10 @@
             "fullManagedTypeName": "UnityEditor.MonoScript",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -67,10 +67,10 @@
             "fullManagedTypeName": "UnityEngine.MonoBehaviour",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -79,10 +79,10 @@
             "fullManagedTypeName": "UnityEngine.Material",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -91,10 +91,10 @@
             "fullManagedTypeName": "",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -117,10 +117,10 @@
             "fullManagedTypeName": "",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -136,10 +136,10 @@
             "fullManagedTypeName": "UnityEngine.Shader",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -148,10 +148,10 @@
             "fullManagedTypeName": "UnityEngine.TextAsset",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -268,38 +268,14 @@
         },
         {
             "managedAssemblyName": "UnityEngine.dll",
-            "nativeClass": "Camera",
-            "fullManagedTypeName": "UnityEngine.Camera",
-            "moduleName": "Core",
-            "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
-                "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
-            ]
-        },
-        {
-            "managedAssemblyName": "UnityEngine.dll",
             "nativeClass": "Transform",
             "fullManagedTypeName": "UnityEngine.Transform",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
-            ]
-        },
-        {
-            "managedAssemblyName": "UnityEngine.dll",
-            "nativeClass": "FlareLayer",
-            "fullManagedTypeName": "UnityEngine.FlareLayer",
-            "moduleName": "Core",
-            "usedInScenes": [
+                "Assets/Scenes/Autumn.unity",
                 "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
-                "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -308,22 +284,10 @@
             "fullManagedTypeName": "UnityEngine.Renderer",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
-            ]
-        },
-        {
-            "managedAssemblyName": "UnityEngine.dll",
-            "nativeClass": "LineRenderer",
-            "fullManagedTypeName": "UnityEngine.LineRenderer",
-            "moduleName": "Core",
-            "usedInScenes": [
+                "Assets/Scenes/Autumn.unity",
                 "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
-                "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -332,10 +296,10 @@
             "fullManagedTypeName": "UnityEngine.Light",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -344,10 +308,10 @@
             "fullManagedTypeName": "UnityEngine.MeshFilter",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -356,10 +320,10 @@
             "fullManagedTypeName": "UnityEngine.SkinnedMeshRenderer",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -368,10 +332,10 @@
             "fullManagedTypeName": "UnityEngine.MeshRenderer",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -380,10 +344,10 @@
             "fullManagedTypeName": "UnityEngine.AudioSource",
             "moduleName": "Audio",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -392,22 +356,10 @@
             "fullManagedTypeName": "UnityEngine.AudioBehaviour",
             "moduleName": "Audio",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
-            ]
-        },
-        {
-            "managedAssemblyName": "UnityEngine.dll",
-            "nativeClass": "AudioListener",
-            "fullManagedTypeName": "UnityEngine.AudioListener",
-            "moduleName": "Audio",
-            "usedInScenes": [
+                "Assets/Scenes/Autumn.unity",
                 "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
-                "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -416,10 +368,10 @@
             "fullManagedTypeName": "UnityEngine.ParticleSystem",
             "moduleName": "ParticleSystem",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -428,10 +380,10 @@
             "fullManagedTypeName": "UnityEngine.ParticleSystemRenderer",
             "moduleName": "ParticleSystem",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -440,10 +392,10 @@
             "fullManagedTypeName": "UnityEngine.Rigidbody",
             "moduleName": "Physics",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -452,10 +404,10 @@
             "fullManagedTypeName": "UnityEngine.Collider",
             "moduleName": "Physics",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -464,10 +416,10 @@
             "fullManagedTypeName": "UnityEngine.MeshCollider",
             "moduleName": "Physics",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -476,10 +428,10 @@
             "fullManagedTypeName": "UnityEngine.CapsuleCollider",
             "moduleName": "Physics",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -488,10 +440,10 @@
             "fullManagedTypeName": "UnityEngine.BoxCollider",
             "moduleName": "Physics",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -500,10 +452,10 @@
             "fullManagedTypeName": "UnityEngine.SphereCollider",
             "moduleName": "Physics",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -512,10 +464,10 @@
             "fullManagedTypeName": "UnityEngine.Joint",
             "moduleName": "Physics",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -524,10 +476,10 @@
             "fullManagedTypeName": "UnityEngine.FixedJoint",
             "moduleName": "Physics",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -536,10 +488,10 @@
             "fullManagedTypeName": "UnityEngine.Canvas",
             "moduleName": "UI",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -548,10 +500,10 @@
             "fullManagedTypeName": "UnityEngine.RectTransform",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -560,10 +512,10 @@
             "fullManagedTypeName": "UnityEngine.GameObject",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -572,10 +524,10 @@
             "fullManagedTypeName": "UnityEngine.AnimationClip",
             "moduleName": "Animation",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -584,10 +536,10 @@
             "fullManagedTypeName": "UnityEngine.Animator",
             "moduleName": "Animation",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -596,10 +548,10 @@
             "fullManagedTypeName": "UnityEditor.Animations.AnimatorController",
             "moduleName": "Animation",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -608,10 +560,10 @@
             "fullManagedTypeName": "UnityEngine.Motion",
             "moduleName": "Animation",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -620,10 +572,10 @@
             "fullManagedTypeName": "UnityEngine.RuntimeAnimatorController",
             "moduleName": "Animation",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -632,22 +584,10 @@
             "fullManagedTypeName": "UnityEngine.Avatar",
             "moduleName": "Animation",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
-            ]
-        },
-        {
-            "managedAssemblyName": "UnityEngine.dll",
-            "nativeClass": "RenderTexture",
-            "fullManagedTypeName": "UnityEngine.RenderTexture",
-            "moduleName": "Core",
-            "usedInScenes": [
+                "Assets/Scenes/Autumn.unity",
                 "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
-                "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -656,10 +596,10 @@
             "fullManagedTypeName": "UnityEngine.LightmapSettings",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -668,10 +608,10 @@
             "fullManagedTypeName": "UnityEngine.Font",
             "moduleName": "TextRendering",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -680,10 +620,10 @@
             "fullManagedTypeName": "UnityEngine.Mesh",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -692,10 +632,10 @@
             "fullManagedTypeName": "UnityEngine.Texture",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -704,22 +644,10 @@
             "fullManagedTypeName": "UnityEngine.Texture2D",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
-            ]
-        },
-        {
-            "managedAssemblyName": "UnityEngine.dll",
-            "nativeClass": "Sprite",
-            "fullManagedTypeName": "UnityEngine.Sprite",
-            "moduleName": "Core",
-            "usedInScenes": [
+                "Assets/Scenes/Autumn.unity",
                 "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
-                "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -728,10 +656,10 @@
             "fullManagedTypeName": "UnityEngine.CanvasRenderer",
             "moduleName": "UI",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
             ]
         },
         {
@@ -740,10 +668,185 @@
             "fullManagedTypeName": "UnityEngine.CanvasGroup",
             "moduleName": "UI",
             "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
                 "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioMixer",
+            "fullManagedTypeName": "UnityEngine.Audio.AudioMixer",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/Scenes/Summer.unity",
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "LevelGameManager",
+            "fullManagedTypeName": "",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Scenes/Summer.unity",
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Cubemap",
+            "fullManagedTypeName": "UnityEngine.Cubemap",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Scenes/Summer.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "RenderSettings",
+            "fullManagedTypeName": "UnityEngine.RenderSettings",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Scenes/Summer.unity",
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioClip",
+            "fullManagedTypeName": "UnityEngine.AudioClip",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/Scenes/Summer.unity",
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "PhysicMaterial",
+            "fullManagedTypeName": "UnityEngine.PhysicMaterial",
+            "moduleName": "Physics",
+            "usedInScenes": [
+                "Assets/Scenes/Summer.unity",
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "NavMeshSettings",
+            "fullManagedTypeName": "",
+            "moduleName": "AI",
+            "usedInScenes": [
+                "Assets/Scenes/Summer.unity",
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioMixerGroup",
+            "fullManagedTypeName": "UnityEngine.Audio.AudioMixerGroup",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/Scenes/Summer.unity",
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioMixerSnapshot",
+            "fullManagedTypeName": "UnityEngine.Audio.AudioMixerSnapshot",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/Scenes/Summer.unity",
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "SampleClip",
+            "fullManagedTypeName": "",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/Scenes/Summer.unity",
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Sprite",
+            "fullManagedTypeName": "UnityEngine.Sprite",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Scenes/Autumn.unity",
+                "Assets/Scenes/Winter.unity",
+                "Assets/Scenes/Spring.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Camera",
+            "fullManagedTypeName": "UnityEngine.Camera",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Scenes/Winter.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "FlareLayer",
+            "fullManagedTypeName": "UnityEngine.FlareLayer",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Scenes/Winter.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "LineRenderer",
+            "fullManagedTypeName": "UnityEngine.LineRenderer",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Scenes/Winter.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioListener",
+            "fullManagedTypeName": "UnityEngine.AudioListener",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/Scenes/Winter.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "RenderTexture",
+            "fullManagedTypeName": "UnityEngine.RenderTexture",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Scenes/Winter.unity"
             ]
         },
         {
@@ -753,123 +856,6 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/Scenes/Winter.unity"
-            ]
-        },
-        {
-            "managedAssemblyName": "UnityEngine.dll",
-            "nativeClass": "AudioMixer",
-            "fullManagedTypeName": "UnityEngine.Audio.AudioMixer",
-            "moduleName": "Audio",
-            "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
-                "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
-            ]
-        },
-        {
-            "managedAssemblyName": "",
-            "nativeClass": "LevelGameManager",
-            "fullManagedTypeName": "",
-            "moduleName": "Core",
-            "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
-                "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
-            ]
-        },
-        {
-            "managedAssemblyName": "UnityEngine.dll",
-            "nativeClass": "RenderSettings",
-            "fullManagedTypeName": "UnityEngine.RenderSettings",
-            "moduleName": "Core",
-            "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
-                "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
-            ]
-        },
-        {
-            "managedAssemblyName": "UnityEngine.dll",
-            "nativeClass": "AudioClip",
-            "fullManagedTypeName": "UnityEngine.AudioClip",
-            "moduleName": "Audio",
-            "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
-                "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
-            ]
-        },
-        {
-            "managedAssemblyName": "UnityEngine.dll",
-            "nativeClass": "PhysicMaterial",
-            "fullManagedTypeName": "UnityEngine.PhysicMaterial",
-            "moduleName": "Physics",
-            "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
-                "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
-            ]
-        },
-        {
-            "managedAssemblyName": "",
-            "nativeClass": "NavMeshSettings",
-            "fullManagedTypeName": "",
-            "moduleName": "AI",
-            "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
-                "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
-            ]
-        },
-        {
-            "managedAssemblyName": "UnityEngine.dll",
-            "nativeClass": "AudioMixerGroup",
-            "fullManagedTypeName": "UnityEngine.Audio.AudioMixerGroup",
-            "moduleName": "Audio",
-            "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
-                "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
-            ]
-        },
-        {
-            "managedAssemblyName": "UnityEngine.dll",
-            "nativeClass": "AudioMixerSnapshot",
-            "fullManagedTypeName": "UnityEngine.Audio.AudioMixerSnapshot",
-            "moduleName": "Audio",
-            "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
-                "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
-            ]
-        },
-        {
-            "managedAssemblyName": "",
-            "nativeClass": "SampleClip",
-            "fullManagedTypeName": "",
-            "moduleName": "Audio",
-            "usedInScenes": [
-                "Assets/Scenes/Winter.unity",
-                "Assets/Scenes/Spring.unity",
-                "Assets/Scenes/Summer.unity",
-                "Assets/Scenes/Autumn.unity"
-            ]
-        },
-        {
-            "managedAssemblyName": "UnityEngine.dll",
-            "nativeClass": "Cubemap",
-            "fullManagedTypeName": "UnityEngine.Cubemap",
-            "moduleName": "Core",
-            "usedInScenes": [
-                "Assets/Scenes/Autumn.unity"
             ]
         },
         {
