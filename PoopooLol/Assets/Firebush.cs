@@ -26,8 +26,7 @@ public class Firebush : MonoBehaviour
         switch (collision.gameObject.tag)
         {
             case "snow":
-                //Destroy(big);
-                GetComponent<BoxCollider>().enabled = false;
+                Destroy(big);
                 break;
         }
     }
