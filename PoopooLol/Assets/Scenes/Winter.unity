@@ -3572,20 +3572,6 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 388913768}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &204111501
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 204111497}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cd5e15211907e844f8e4cd85e07689ce, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ShrinkDuration: 100
-  TargetScale: {x: 0.5, y: 0.5, z: 0.5}
 --- !u!64 &204111502
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -4245,7 +4231,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh189212
+  m_Name: pb_Mesh1121204
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -4578,7 +4564,7 @@ GameObject:
   - component: {fileID: 315930154}
   m_Layer: 0
   m_Name: Lane
-  m_TagString: Untagged
+  m_TagString: Bigger
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

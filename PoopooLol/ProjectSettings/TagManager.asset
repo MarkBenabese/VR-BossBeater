@@ -12,6 +12,7 @@ TagManager:
   - ice
   - snow
   - fire
+  - iceball
   layers:
   - Default
   - TransparentFX
